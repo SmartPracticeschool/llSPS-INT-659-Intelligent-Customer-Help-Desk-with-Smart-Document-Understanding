@@ -20,6 +20,9 @@ In this project, there will be another option. If the customer question is about
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
 
+### Dataset
+The dataset used is a User Guide of an Ecobee Heater
+
 ### Preview
 Check it out here [Node-RED Deployment](https://customer-help-desk-node-red.eu-gb.mybluemix.net/ui/#!/0?socketid=rXT-rrpr1e5ki-EcAABS)
 <p align="center">
@@ -28,6 +31,12 @@ Check it out here [Node-RED Deployment](https://customer-help-desk-node-red.eu-g
 
 ### Project Demonstration
 [YouTube Video](#about-the-project)
+
+### Sample Questions
+  1. How to turn on the Heater
+  2. How to configure the heater etc.
+
+
 
 
 
