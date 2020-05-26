@@ -8,6 +8,7 @@
 
   <h1 align="center">Intelligent Customer Help Desk With Smart Document Understanding</h1>
 </p>
+[YouTube Video](https://www.youtube.com/watch?v=B8ooQNcfbXc)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -30,7 +31,7 @@ Check it out here [Node-RED Deployment](https://customer-help-desk-node-red.eu-g
 </p>
 
 ### Project Demonstration
-[YouTube Video](#about-the-project)
+[YouTube Video](https://www.youtube.com/watch?v=B8ooQNcfbXc)
 
 ### Sample Questions
   1. How to turn on the Heater
